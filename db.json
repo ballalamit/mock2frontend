@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "image": "Screenshot (7).png",
+      "productName": "amit test",
+      "productDescription": "fsmj",
+      "gender": "Male",
+      "category": "Jeans",
+      "price": "12345",
+      "id": 37
+    }
+  ]
+}
